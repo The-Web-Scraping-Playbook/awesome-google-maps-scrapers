@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google-Maps OpsKit
-> Find out everything you need to know to reliably scrape Google-Maps with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google-maps)
+> Find out everything you need to know to reliably scrape Google-Maps with our new tool: [Ops Kit](https://scrapeops.io/websites/google-maps)
 
 This kit provides the blueprint for Google-Maps scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google-Maps scraping operations:
 ---
 
 ## 🧠 Google-Maps Tutorials & How-Tos<a id="google-maps-tutorials"></a>
-- 📘 [How to Scrape Google-Maps at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google-maps/)
+- 📘 [How to Scrape Google-Maps at Scale](https://scrapeops.io/websites/google-maps/how-to-scrape-google-maps)
 - 🔐 [Web Scraping Google-Maps Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
